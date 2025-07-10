@@ -10,4 +10,4 @@
 
 本平台专为用户提供精选精品视频入口，涵盖日韩、国产、欧美等多领域内容，支持快速访问与高清播放。资源按题材分类，如剧情类、激情类、新人出道等，助你精准定位感兴趣视频。系统自动更新每日热门作品，界面清爽无跳转广告，是您日常看片首选。
 
-<span style="display:none;">[Canonical link](https://github.com/rfv20250710/rfrv20250710 ）</span>
+<span style="display:none;">[Canonical link](https://github.com/rfv20250710/rfv20250710 ）</span>
